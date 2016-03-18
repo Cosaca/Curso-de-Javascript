@@ -1,0 +1,50 @@
+#player,
+#enemy,
+#enemy2 {
+  width:90px;
+  height:90px;
+  border-radius:50%;
+  box-shadow:5px 5px 15px #000;
+}
+
+#player {
+  background: url("https://yt3.ggpht.com/-30Ujil0GLQY/AAAAAAAAAAI/AAAAAAAAAAA/XqfgZv4pBgk/s88-c-k-no/photo.jpg");
+}
+
+#enemy {
+  padding-top:2px;
+  background:red;
+}
+
+#enemy2 {
+  padding-top:2px;
+  background:blue;
+}
+
+h1 {
+  font-family:monospace;
+  text-align:center;
+  font-size:2.5em;
+}
+
+body {
+  background:#FFCCCC;
+}
+
+h2 {
+  font-size:1em;
+  font-family:monospace;
+  text-align:center;
+}
+
+p {
+  color:white;
+  font-family:monospace;
+  font-size:25px;
+  text-align:center;
+}
+
+#buttond {
+  margin:auto;
+  width:120px;
+}
